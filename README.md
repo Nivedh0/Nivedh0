@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nived Raj C and I'm a Mearn Stack Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Nived Raj C and I'm a .... from India</h2>
 
 ###
 
