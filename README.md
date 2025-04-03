@@ -52,3 +52,28 @@
 <img src="https://raw.githubusercontent.com/Nivedh0/Nivedh0/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+## 🌐 Visit My Portfolio  
+<p align="center">
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Now-blue?style=for-the-badge" alt="Portfolio">
+</a>
+</p>
+
+
+###
+
+## <div align="center">🔥   My Stats : </div>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nivedh0&theme=react-dark)
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Nivedh0/count.svg?"  />
+</div>
+
+###
