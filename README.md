@@ -45,7 +45,7 @@
 
 ## 🌐 Visit My Portfolio  
 <p align="center">
-   <a href="" target="_blank">
+   <a href="https://nivedh0.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_Now-blue?style=for-the-badge" alt="Portfolio">
 </a>
 </p>
